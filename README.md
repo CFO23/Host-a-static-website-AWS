@@ -1,3 +1,5 @@
+![Alt text](\Host_a_Static_Website_on_AWS (1).png)
+
 # Host a Static Website on AWS
 
 ## Project Overview
